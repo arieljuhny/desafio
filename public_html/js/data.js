@@ -7,101 +7,19 @@
 
 var products = [{
     id: "1",
-    text: "Stores",
+    text: "Campos confecções",
     expanded: true,
     items: [{
         id: "1_1",
-        text: "Super Mart of the West",
-        expanded: true,
-        items: [{
-            id: "1_1_1",
-            text: "Video Players",
-            items: [{
-                id: "1_1_1_1",
-                text: "HD Video Player",
-                price: 220
-            }, {
-                id: "1_1_1_2",
-                text: "SuperHD Video Player",
-                price: 270
-            }]
-        }, {
-            id: "1_1_2",
-            text: "Televisions",
-            items: [{
-                id: "1_1_2_1",
-                text: "SuperLCD 42",
-                price: 1200
-            }, {
-                id: "1_1_2_2",
-                text: "SuperLED 42",
-                price: 1450
-            }, {
-                id: "1_1_2_3",
-                text: "SuperLED 50",
-                price: 1600
-            }, {
-                id: "1_1_2_4",
-                text: "SuperLCD 55",
-                price: 1350
-            }, {
-                id: "1_1_2_5",
-                text: "SuperLCD 70",
-                price: 4000
-            }]
-        }, {
-            id: "1_1_3",
-            text: "Monitors",
-            items: [{
-                id: "1_1_3_1",
-                text: "19\"",
-                items: [{
-                    id: "1_1_3_1_1",
-                    text: "DesktopLCD 19",
-                    price: 160
-                }]
-            }, {
-                id: "1_1_3_2",
-                text: "21\"",
-                items: [{
-                    id: "1_1_3_2_1",
-                    text: "DesktopLCD 21",
-                    price: 170
-                }, {
-                    id: "1_1_3_2_2",
-                    text: "DesktopLED 21",
-                    price: 175
-                }]
-            }]
-        }, {
-            id: "1_1_4",
-            text: "Projectors",
-            items: [{
-                id: "1_1_4_1",
-                text: "Projector Plus",
-                price: 550
-            }, {
-                id: "1_1_4_2",
-                text: "Projector PlusHD",
-                price: 750
-            }]
-        }]
-
+        text: "Bermudas",
+        
     }, {
         id: "1_2",
-        text: "Braeburn",
+        text: "Calças",
         items: [{
             id: "1_2_1",
-            text: "Video Players",
-            items: [{
-                id: "1_2_1_1",
-                text: "HD Video Player",
-                price: 240
-            }, {
-                id: "1_2_1_2",
-                text: "SuperHD Video Player",
-                price: 300
-            }]
+            text: "Sarja",
+            
         }, {
             id: "1_2_2",
             text: "Televisions",
